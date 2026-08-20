@@ -5,7 +5,7 @@
 // sebagai .mp4 dan browser tetap bisa melakukan Range Request.
 
 const STORAGEBOX_URL =
-  "https://cdn.storagetobox.com/69d2310e-9f01-4675-9b7f-94ba0bee51d6?expires=1787234400&sig=147cebbac9c33898101206a2a439b26f06077ba1e7261a46784c301bd87ca3d0";
+  "https://cdn.storagetobox.com/d5711e99-ebec-40a0-b420-99f6d632b288?expires=1787238000&amp;sig=73ff8e164b63943e3ade2f1985cd97a58c634fe1056ddaf6f762027e3c1f27b57ba1e7261a46784c301bd87ca3d0";
 
 export default {
   async fetch(request) {
