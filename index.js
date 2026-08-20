@@ -11,7 +11,7 @@ export default {
   async fetch(request) {
     const url = new URL(request.url);
 
-    if (url.pathname === "/storagebox/69d2310e.mp4") {
+    if (url.pathname === "/storagebox/nobar-sama-angel-syank.mp4") {
       return proxyMp4(request);
     }
 
