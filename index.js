@@ -1,7 +1,7 @@
 const STORAGEBOX_URL =
-  "https://cdn.storagetobox.com/d5711e99-ebec-40a0-b420-99f6d632b288?expires=1787319000&amp;sig=44c5ea1800cc6a617eb905bfc064b4e1fe6eddb8644f912e658df705a8e1f6d8";
+  "https://cdn.storagetobox.com/d5711e99-ebec-40a0-b420-99f6d632b288?expires=1787238000&sig=73ff8e164b63943e3ade2f1985cd97a58c634fe1056ddaf6f762027e3c1f27b5";
 
-const VIDEO_ID = "44c5ea1800cc6a617eb905bfc064b4e1fe6eddb8644f912e658df705a8e1f6d8";
+const VIDEO_ID = "d5711e99-ebec-40a0-b420-99f6d632b288";
 
 export default {
   async fetch(request) {
